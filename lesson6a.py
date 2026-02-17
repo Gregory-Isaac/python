@@ -2,15 +2,22 @@
 #is a file that contains python definitions, statements and/or functions,statements and/functions
  
 
-def add()
+def add():
     
     num1 =20
     num2 =30
     sum =num1 +num2
     print("the answer is", sum)
 
-    def subtract()
+    def subtract():
         x = 45
         y = 30
-        difference x - y
-        print("")
+        difference = x - y
+        print("the answer is", difference)
+
+        def rectangle_area():
+            
+        
+        
+            
+            print("the area of the rectangle is", area)echo "# python" >> README.md

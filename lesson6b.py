@@ -5,4 +5,5 @@ import lesson6a
 
 # access the function inthe given module
 # to access the functions in the previous module 
-lesson6a.add( the answer is)
+lesson6a.add()
+lesson6a.subtract()
